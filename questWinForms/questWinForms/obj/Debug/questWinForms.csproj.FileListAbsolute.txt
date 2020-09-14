@@ -1,0 +1,20 @@
+C:\Users\goss_rivero\source\repos\questWinForms\questWinForms\bin\Debug\questWinForms.exe.config
+C:\Users\goss_rivero\source\repos\questWinForms\questWinForms\bin\Debug\questWinForms.exe
+C:\Users\goss_rivero\source\repos\questWinForms\questWinForms\bin\Debug\questWinForms.pdb
+C:\Users\goss_rivero\source\repos\questWinForms\questWinForms\obj\Debug\questWinForms.Form1.resources
+C:\Users\goss_rivero\source\repos\questWinForms\questWinForms\obj\Debug\questWinForms.Properties.Resources.resources
+C:\Users\goss_rivero\source\repos\questWinForms\questWinForms\obj\Debug\questWinForms.csproj.GenerateResource.cache
+C:\Users\goss_rivero\source\repos\questWinForms\questWinForms\obj\Debug\questWinForms.csproj.CoreCompileInputs.cache
+C:\Users\goss_rivero\source\repos\questWinForms\questWinForms\obj\Debug\questWinForms.exe
+C:\Users\goss_rivero\source\repos\questWinForms\questWinForms\obj\Debug\questWinForms.pdb
+C:\Users\goss_rivero\source\repos\questWinForms\questWinForms\obj\Debug\questWinForms.csprojAssemblyReference.cache
+C:\Users\SAM\Downloads\Telegram Desktop\questWinForms\questWinForms\questWinForms\bin\Debug\questWinForms.exe.config
+C:\Users\SAM\Downloads\Telegram Desktop\questWinForms\questWinForms\questWinForms\bin\Debug\questWinForms.exe
+C:\Users\SAM\Downloads\Telegram Desktop\questWinForms\questWinForms\questWinForms\bin\Debug\questWinForms.pdb
+C:\Users\SAM\Downloads\Telegram Desktop\questWinForms\questWinForms\questWinForms\obj\Debug\questWinForms.csprojAssemblyReference.cache
+C:\Users\SAM\Downloads\Telegram Desktop\questWinForms\questWinForms\questWinForms\obj\Debug\questWinForms.Form1.resources
+C:\Users\SAM\Downloads\Telegram Desktop\questWinForms\questWinForms\questWinForms\obj\Debug\questWinForms.Properties.Resources.resources
+C:\Users\SAM\Downloads\Telegram Desktop\questWinForms\questWinForms\questWinForms\obj\Debug\questWinForms.csproj.GenerateResource.cache
+C:\Users\SAM\Downloads\Telegram Desktop\questWinForms\questWinForms\questWinForms\obj\Debug\questWinForms.csproj.CoreCompileInputs.cache
+C:\Users\SAM\Downloads\Telegram Desktop\questWinForms\questWinForms\questWinForms\obj\Debug\questWinForms.exe
+C:\Users\SAM\Downloads\Telegram Desktop\questWinForms\questWinForms\questWinForms\obj\Debug\questWinForms.pdb
